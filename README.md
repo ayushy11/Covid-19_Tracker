@@ -9,7 +9,7 @@ This Project is a beginner friendly project I built using ReactJS. Some key feat
 
 Deployed live on Firebase https://covid-19-tracker-73338.web.app/ . Check out!
 
-![](Covid-19-Tracker_sample.PNG)
+![](https://github.com/ayushy11/Covid-19_Tracker/blob/master/Covid-19-Tracker_sample.png)
 
 # Getting Started with Create React App
 
